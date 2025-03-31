@@ -1,0 +1,20 @@
+WELCOME TO CLOUDCOM-TICKETING SYSTEM
+MEMBERS:
+MOYANO, SARGE DAVE M.
+MANALOTO, ALDRIN
+PIPPEN, JASON
+LUIS, RAPHAEL
+ANUNCACION, IRA MAE
+
+-------------------------------------------------------------
+
+TO LOGIN FOR THEATRE:
+
+Username: THR760801
+Password: PWD649976
+
+LOGIN FOR ADMIN:
+
+Username: admin
+Password: password
+
